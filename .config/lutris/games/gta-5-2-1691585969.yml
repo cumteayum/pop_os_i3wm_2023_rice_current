@@ -1,0 +1,12 @@
+game:
+  exe: /home/ishan/.wine/drive_c/Grand Theft Auto V/GTA5.exe
+system:
+  gamemode: false
+  prime: false
+wine:
+  battleye: false
+  eac: false
+  esync: false
+  fsync: false
+  version: lutris-GE-Proton8-13-x86_64
+  vkd3d: false

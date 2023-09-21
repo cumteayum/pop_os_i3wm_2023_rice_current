@@ -1,0 +1,20 @@
+# settings
+
+(GimpGegl-gegl-bloom-config "2023-09-15 10:44:27"
+    (time 1694754867)
+    (gimp-mode darken-only)
+    (threshold 68.900000000000006)
+    (softness 38.079999999999998)
+    (radius 6.1100000000000003)
+    (strength 21.510000000000002)
+    (limit-exposure yes))
+(GimpGegl-gegl-bloom-config "2023-09-10 16:10:39"
+    (time 1694342439)
+    (gimp-opacity 0.503)
+    (threshold 92.650000000000006)
+    (softness 12.35)
+    (radius 1.6699999999999999)
+    (strength 13.529999999999999)
+    (limit-exposure yes))
+
+# end of settings

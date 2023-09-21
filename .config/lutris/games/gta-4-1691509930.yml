@@ -1,0 +1,8 @@
+game:
+  exe: /home/ishan/Documents/Grand Theft Auto IV - The Complete Edition/GTAIV.exe
+system:
+  gamemode: false
+  mangohud: false
+  prime: true
+wine:
+  version: lutris-GE-Proton8-13-x86_64

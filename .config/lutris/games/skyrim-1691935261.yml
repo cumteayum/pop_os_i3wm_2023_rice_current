@@ -1,0 +1,16 @@
+game:
+  exe: /home/ishan/Pictures/The Elder Scrolls - Skyrim - Special Edition/SkyrimSELauncher.exe
+  prefix: ~/.steam/steam/steamapps/compatdata/3381482597/pfx
+system:
+  disable_runtime: false
+  gamemode: false
+  prime: true
+wine:
+  battleye: false
+  dxvk: false
+  eac: false
+  esync: false
+  fsr: false
+  fsync: false
+  version: lutris-fshack-7.2-x86_64
+  vkd3d: false

@@ -1,0 +1,216 @@
+{"level":30,"time":"2023-09-14T12:48:47.925Z","msg":"app.ready: hour cycle preference: UnknownPreference"}
+{"level":30,"time":"2023-09-14T12:48:47.926Z","msg":"app.ready: preferred system locales: en-US, en"}
+{"level":30,"time":"2023-09-14T12:48:47.926Z","msg":"locale: Supported locales: af-ZA, ar, az-AZ, bg-BG, bn-BD, bs-BA, ca, cs, da, de, el, en, es, et-EE, eu, fa-IR, fi, fr, ga-IE, gl-ES, gu-IN, he, hi-IN, hr-HR, hu, id, it, ja, ka-GE, kk-KZ, km-KH, kn-IN, ko, ky-KG, lt-LT, lv-LV, mk-MK, ml-IN, mr-IN, ms, my, nb, nl, pa-IN, pl, pt-BR, pt-PT, ro-RO, ru, sk-SK, sl-SI, sq-AL, sr, sv, sw, ta-IN, te-IN, th, tl-PH, tr, ug, uk-UA, ur, vi, yue, zh-CN, zh-HK, zh-Hant"}
+{"level":30,"time":"2023-09-14T12:48:47.927Z","msg":"locale: Preferred locales:  en-US, en"}
+{"level":30,"time":"2023-09-14T12:48:47.929Z","msg":"locale: Matched locale: en"}
+{"level":40,"time":"2023-09-14T12:48:47.963Z","msg":"intl.onWarn [@formatjs/intl] \"defaultRichTextElements\" was specified but \"message\" was not pre-compiled. \nPlease consider using \"@formatjs/cli\" to pre-compile your messages for performance.\nFor more details see https://formatjs.io/docs/getting-started/message-distribution"}
+{"level":30,"time":"2023-09-14T12:48:47.964Z","msg":"locale: Text info direction for en: ltr"}
+{"level":30,"time":"2023-09-14T12:48:47.964Z","msg":"key/initialize: Generating new encryption key, since we did not find it on disk"}
+{"level":30,"time":"2023-09-14T12:48:47.966Z","msg":"config/set: Saving user config to disk"}
+{"level":30,"time":"2023-09-14T12:48:47.969Z","msg":"config/set: Saved user config to disk"}
+{"level":30,"time":"2023-09-14T12:48:47.971Z","msg":"app ready"}
+{"level":30,"time":"2023-09-14T12:48:47.971Z","msg":"starting version 6.30.2"}
+{"level":30,"time":"2023-09-14T12:48:47.971Z","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2023-09-14T12:48:48.007Z","msg":"MainSQL: migrateSchemaVersion: Migrating from schema_version 0 to user_version 0"}
+{"level":30,"time":"2023-09-14T12:48:48.012Z","msg":"MainSQL: updateSchema:\n  Current user_version: 0;\n  Most recent db schema: 920;\n  SQLite version: 3.39.4;\n  SQLCipher version: 4.5.3 community;\n  (deprecated) schema_version: 0;\n"}
+{"level":30,"time":"2023-09-14T12:48:48.013Z","msg":"MainSQL: updateToSchemaVersion1: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.015Z","msg":"MainSQL: updateToSchemaVersion1: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.015Z","msg":"MainSQL: updateToSchemaVersion2: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.018Z","msg":"MainSQL: updateToSchemaVersion2: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.018Z","msg":"MainSQL: updateToSchemaVersion3: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.020Z","msg":"MainSQL: updateToSchemaVersion3: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.021Z","msg":"MainSQL: updateToSchemaVersion4: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.022Z","msg":"MainSQL: updateToSchemaVersion4: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.022Z","msg":"MainSQL: updateToSchemaVersion6: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.024Z","msg":"MainSQL: updateToSchemaVersion6: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.025Z","msg":"MainSQL: updateToSchemaVersion7: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.027Z","msg":"MainSQL: updateToSchemaVersion7: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.027Z","msg":"MainSQL: updateToSchemaVersion8: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.030Z","msg":"MainSQL: updateToSchemaVersion8: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.030Z","msg":"MainSQL: updateToSchemaVersion9: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.031Z","msg":"MainSQL: updateToSchemaVersion9: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.031Z","msg":"MainSQL: updateToSchemaVersion10: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.034Z","msg":"MainSQL: updateToSchemaVersion10: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.034Z","msg":"MainSQL: updateToSchemaVersion11: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.036Z","msg":"MainSQL: updateToSchemaVersion11: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.036Z","msg":"MainSQL: updateToSchemaVersion12: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.038Z","msg":"MainSQL: updateToSchemaVersion12: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.038Z","msg":"MainSQL: updateToSchemaVersion13: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.040Z","msg":"MainSQL: updateToSchemaVersion13: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.040Z","msg":"MainSQL: updateToSchemaVersion14: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.042Z","msg":"MainSQL: updateToSchemaVersion14: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.042Z","msg":"MainSQL: updateToSchemaVersion15: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.045Z","msg":"MainSQL: updateToSchemaVersion15: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.045Z","msg":"MainSQL: updateToSchemaVersion16: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.048Z","msg":"MainSQL: updateToSchemaVersion16: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.049Z","msg":"MainSQL: updateToSchemaVersion17: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.051Z","msg":"MainSQL: updateToSchemaVersion17: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.051Z","msg":"MainSQL: updateToSchemaVersion18: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.053Z","msg":"MainSQL: updateToSchemaVersion18: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.053Z","msg":"MainSQL: updateToSchemaVersion19: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.056Z","msg":"MainSQL: updateToSchemaVersion19: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.057Z","msg":"MainSQL: updateToSchemaVersion20: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.063Z","msg":"MainSQL: updateToSchemaVersion20: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.065Z","msg":"MainSQL: updateToSchemaVersion21: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.066Z","msg":"MainSQL: updateToSchemaVersion22: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.068Z","msg":"MainSQL: updateToSchemaVersion23: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.070Z","msg":"MainSQL: updateToSchemaVersion24: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.076Z","msg":"MainSQL: updateToSchemaVersion25: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.077Z","msg":"MainSQL: updateToSchemaVersion26: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.078Z","msg":"MainSQL: updateToSchemaVersion27: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.080Z","msg":"MainSQL: updateToSchemaVersion28: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.082Z","msg":"MainSQL: updateToSchemaVersion29: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.084Z","msg":"MainSQL: updateToSchemaVersion30: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.084Z","msg":"MainSQL: updateToSchemaVersion31: starting..."}
+{"level":30,"time":"2023-09-14T12:48:48.088Z","msg":"MainSQL: updateToSchemaVersion31: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.091Z","msg":"MainSQL: updateToSchemaVersion32: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.094Z","msg":"MainSQL: updateToSchemaVersion33: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.095Z","msg":"MainSQL: updateToSchemaVersion34: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.097Z","msg":"MainSQL: updateToSchemaVersion35: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.098Z","msg":"MainSQL: updateToSchemaVersion36: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.101Z","msg":"MainSQL: updateToSchemaVersion37: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.109Z","msg":"MainSQL: updateToSchemaVersion38: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.114Z","msg":"MainSQL: updateToSchemaVersion39: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.115Z","msg":"MainSQL: updateToSchemaVersion40: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.127Z","msg":"MainSQL: updateToSchemaVersion41: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.128Z","msg":"MainSQL: updateToSchemaVersion42: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.129Z","msg":"MainSQL: updateToSchemaVersion43: About to iterate through 0 conversations"}
+{"level":30,"time":"2023-09-14T12:48:48.129Z","msg":"MainSQL: updateToSchemaVersion43: About to iterate through 0 messages"}
+{"level":30,"time":"2023-09-14T12:48:48.129Z","msg":"MainSQL: updateToSchemaVersion43: Updated 0 messages"}
+{"level":30,"time":"2023-09-14T12:48:48.130Z","msg":"MainSQL: updateToSchemaVersion43: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.133Z","msg":"MainSQL: updateToSchemaVersion44: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.137Z","msg":"MainSQL: updateToSchemaVersion45: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.139Z","msg":"MainSQL: updateToSchemaVersion46: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.147Z","msg":"MainSQL: updateToSchemaVersion47: our UUID not found"}
+{"level":30,"time":"2023-09-14T12:48:48.149Z","msg":"MainSQL: updateToSchemaVersion47: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.150Z","msg":"MainSQL: updateToSchemaVersion48: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.152Z","msg":"MainSQL: updateToSchemaVersion49: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.153Z","msg":"MainSQL: updateToSchemaVersion50: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.154Z","msg":"MainSQL: updateToSchemaVersion51: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.155Z","msg":"MainSQL: updateToSchemaVersion52: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.156Z","msg":"MainSQL: updateToSchemaVersion53: About to iterate through 0 conversations"}
+{"level":30,"time":"2023-09-14T12:48:48.156Z","msg":"MainSQL: updateToSchemaVersion53: Updated 0 conversations"}
+{"level":30,"time":"2023-09-14T12:48:48.157Z","msg":"MainSQL: updateToSchemaVersion53: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.158Z","msg":"MainSQL: updateToSchemaVersion54: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.159Z","msg":"MainSQL: updateToSchemaVersion55: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.162Z","msg":"MainSQL: updateToSchemaVersion56: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.163Z","msg":"MainSQL: updateToSchemaVersion57: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.164Z","msg":"MainSQL: updateToSchemaVersion58: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.165Z","msg":"MainSQL: updateToSchemaVersion59: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.166Z","msg":"MainSQL: updateToSchemaVersion60: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.180Z","msg":"MainSQL: updateToSchemaVersion61: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.183Z","msg":"MainSQL: updateToSchemaVersion62: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.185Z","msg":"MainSQL: updateToSchemaVersion63: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.189Z","msg":"MainSQL: updateToSchemaVersion64: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.194Z","msg":"MainSQL: updateToSchemaVersion65: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.197Z","msg":"MainSQL: updateToSchemaVersion66: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.199Z","msg":"MainSQL: updateToSchemaVersion67: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.209Z","msg":"MainSQL: updateToSchemaVersion68: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.210Z","msg":"MainSQL: updateToSchemaVersion69: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.212Z","msg":"MainSQL: updateToSchemaVersion70: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.226Z","msg":"MainSQL: updateToSchemaVersion71: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.229Z","msg":"MainSQL: updateToSchemaVersion72: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.244Z","msg":"MainSQL: updateToSchemaVersion73: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.246Z","msg":"MainSQL: updateToSchemaVersion74: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.248Z","msg":"MainSQL: updateToSchemaVersion75: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.254Z","msg":"MainSQL: updateToSchemaVersion76: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.257Z","msg":"MainSQL: updateToSchemaVersion77: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.259Z","msg":"MainSQL: updateToSchemaVersion78: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.261Z","msg":"MainSQL: updateToSchemaVersion79: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.263Z","msg":"MainSQL: updateToSchemaVersion80: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.278Z","msg":"MainSQL: updateToSchemaVersion81: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.284Z","msg":"MainSQL: updateToSchemaVersion82: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.287Z","msg":"MainSQL: updateToSchemaVersion83: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.290Z","msg":"MainSQL: updateToSchemaVersion84: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.292Z","msg":"MainSQL: updateToSchemaVersion85: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.293Z","msg":"MainSQL: updateToSchemaVersion86: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.294Z","msg":"MainSQL: updateToSchemaVersion87(cleanup)/kyberPreKeys: Our PNI not found"}
+{"level":30,"time":"2023-09-14T12:48:48.294Z","msg":"MainSQL: updateToSchemaVersion87(cleanup)/preKeys: Our PNI not found"}
+{"level":30,"time":"2023-09-14T12:48:48.294Z","msg":"MainSQL: updateToSchemaVersion87(cleanup)/signedPreKeys: Our PNI not found"}
+{"level":30,"time":"2023-09-14T12:48:48.295Z","msg":"MainSQL: updateToSchemaVersion87(cleanup): success!"}
+{"level":30,"time":"2023-09-14T12:48:48.361Z","msg":"MainSQL: updateToSchemaVersion88: updating 0 conversations"}
+{"level":30,"time":"2023-09-14T12:48:48.361Z","msg":"MainSQL: updateToSchemaVersion88: Our UUID not found"}
+{"level":30,"time":"2023-09-14T12:48:48.361Z","msg":"MainSQL: updateToSchemaVersion88: Our PNI not found"}
+{"level":30,"time":"2023-09-14T12:48:48.361Z","msg":"MainSQL: updateToSchemaVersion88: updating 0 sessions"}
+{"level":30,"time":"2023-09-14T12:48:48.361Z","msg":"MainSQL: updateToSchemaVersion88: updating messages"}
+{"level":30,"time":"2023-09-14T12:48:48.361Z","msg":"MainSQL: updateToSchemaVersion88: updated 0 messages"}
+{"level":30,"time":"2023-09-14T12:48:48.361Z","msg":"MainSQL: updateToSchemaVersion88: updating 0 preKeys"}
+{"level":30,"time":"2023-09-14T12:48:48.362Z","msg":"MainSQL: updateToSchemaVersion88: updating 0 signedPreKeys"}
+{"level":30,"time":"2023-09-14T12:48:48.362Z","msg":"MainSQL: updateToSchemaVersion88: updating 0 kyberPreKeys"}
+{"level":30,"time":"2023-09-14T12:48:48.362Z","msg":"MainSQL: updateToSchemaVersion88: updated 0 jobs"}
+{"level":30,"time":"2023-09-14T12:48:48.365Z","msg":"MainSQL: updateToSchemaVersion88: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.378Z","msg":"MainSQL: updateToSchemaVersion89: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.380Z","msg":"MainSQL: updateToSchemaVersion90: removed screenshotData from 0 message"}
+{"level":30,"time":"2023-09-14T12:48:48.381Z","msg":"MainSQL: updateToSchemaVersion90: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.396Z","msg":"MainSQL: updateToSchemaVersion91: Found 0 keys"}
+{"level":30,"time":"2023-09-14T12:48:48.399Z","msg":"MainSQL: updateToSchemaVersion91: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.399Z","msg":"MainSQL: updateToSchemaVersion920/kyberPreKeys: Our PNI not found"}
+{"level":30,"time":"2023-09-14T12:48:48.399Z","msg":"MainSQL: updateToSchemaVersion920/signedPreKeys: Our PNI not found"}
+{"level":30,"time":"2023-09-14T12:48:48.399Z","msg":"MainSQL: updateToSchemaVersion920: Done with deletions"}
+{"level":30,"time":"2023-09-14T12:48:48.400Z","msg":"MainSQL: updateToSchemaVersion920: user_version set to 920. Starting vacuum..."}
+{"level":30,"time":"2023-09-14T12:48:48.413Z","msg":"MainSQL: updateToSchemaVersion920: Vacuum complete."}
+{"level":30,"time":"2023-09-14T12:48:48.413Z","msg":"MainSQL: updateToSchemaVersion920: success!"}
+{"level":30,"time":"2023-09-14T12:48:48.414Z","msg":"MainSQL: updateSchema: optimize took 1ms"}
+{"level":30,"time":"2023-09-14T12:48:48.415Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-09-14T12:48:48.415Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-09-14T12:48:48.415Z","msg":"got slow theme-setting value [object Undefined]"}
+{"level":30,"time":"2023-09-14T12:48:48.416Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-09-14T12:48:48.416Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-09-14T12:48:48.416Z","msg":"got slow spellcheck setting true"}
+{"level":30,"time":"2023-09-14T12:48:48.416Z","msg":"getSystemTraySetting had no flags and did no DB lookups. Returning DoNotUseSystemTray"}
+{"level":50,"time":"2023-09-14T12:48:48.418Z","msg":"visibleOnAnyScreen: windowOptions didn't have valid bounds fields"}
+{"level":30,"time":"2023-09-14T12:48:48.418Z","msg":"Location reset needed"}
+{"level":30,"time":"2023-09-14T12:48:48.418Z","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":800,\"height\":610,\"minWidth\":300,\"minHeight\":200,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"titleBarOverlay\":false,\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"enableBlinkFeatures\":\"CSSPseudoDir,CSSLogical\",\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"sandbox\":false,\"contextIsolation\":true,\"preload\":\"[REDACTED]/preload.bundle.js\",\"backgroundThrottling\":true,\"enablePreferredSizeMode\":true,\"disableBlinkFeatures\":\"Accelerated2dCanvas,AcceleratedSmallCanvases\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\"}"}
+{"level":30,"time":"2023-09-14T12:48:48.446Z","msg":"spellcheck: user locales: [\"en-US\",\"en\"]"}
+{"level":30,"time":"2023-09-14T12:48:48.447Z","msg":"spellcheck: available spellchecker languages: [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2023-09-14T12:48:48.447Z","msg":"spellcheck: setting languages to: [\"en-US\",\"en\"]"}
+{"level":30,"time":"2023-09-14T12:48:49.052Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2023-09-14T12:48:50.038Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2023-09-14T12:48:50.047Z","msg":"System tray service: created"}
+{"level":30,"time":"2023-09-14T12:48:50.047Z","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2023-09-14T12:48:50.047Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-09-14T12:48:50.048Z","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2023-09-14T12:48:50.048Z","msg":"main window is ready-to-show"}
+{"level":30,"time":"2023-09-14T12:48:50.049Z","msg":"showing main window"}
+{"level":30,"time":"2023-09-14T12:48:50.050Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-09-14T12:48:50.052Z","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2023-09-14T12:48:50.053Z","msg":"Finish ensuring permissions in 5ms"}
+{"level":30,"time":"2023-09-14T12:48:50.112Z","msg":"deleteAllBadges: deleted 0 files"}
+{"level":30,"time":"2023-09-14T12:48:50.115Z","msg":"MainSQL: removeKnownStickers: About to iterate through 0 stickers"}
+{"level":30,"time":"2023-09-14T12:48:50.115Z","msg":"MainSQL: removeKnownStickers: Done processing 0 stickers"}
+{"level":30,"time":"2023-09-14T12:48:50.115Z","msg":"deleteAllStickers: deleted 0 files"}
+{"level":30,"time":"2023-09-14T12:48:50.117Z","msg":"MainSQL: removeKnownDraftAttachments: About to iterate through 0 conversations"}
+{"level":30,"time":"2023-09-14T12:48:50.117Z","msg":"MainSQL: removeKnownDraftAttachments: Done processing 0 conversations"}
+{"level":30,"time":"2023-09-14T12:48:50.117Z","msg":"deleteAllDraftAttachments: deleted 0 files"}
+{"level":30,"time":"2023-09-14T12:48:50.118Z","msg":"cleanupOrphanedAttachments: found 0 attachments on disk"}
+{"level":30,"time":"2023-09-14T12:48:50.119Z","msg":"MainSQL: getKnownConversationAttachments: About to iterate through 0"}
+{"level":30,"time":"2023-09-14T12:48:50.119Z","msg":"MainSQL: getKnownConversationAttachments: Done processing"}
+{"level":30,"time":"2023-09-14T12:48:50.119Z","msg":"cleanupOrphanedAttachments: found 0 conversation attachments (0 missing), 0 remain"}
+{"level":30,"time":"2023-09-14T12:48:50.119Z","msg":"cleanupOrphanedAttachments: took 23ms"}
+{"level":30,"time":"2023-09-14T12:48:50.121Z","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2023-09-14T12:48:50.121Z","msg":"MainSQL: getKnownMessageAttachments(31a3d818d8c084ad): Starting iteration through 0 messages"}
+{"level":30,"time":"2023-09-14T12:48:50.128Z","msg":"Ensuring file permissions for 67 files"}
+{"level":50,"time":"2023-09-14T12:48:50.130Z","msg":"ensureFilePermissions: Error from chmod ENOENT: no such file or directory, chmod '[REDACTED]/SingletonCookie'"}
+{"level":50,"time":"2023-09-14T12:48:50.130Z","msg":"ensureFilePermissions: Error from chmod ENOENT: no such file or directory, chmod '[REDACTED]/SingletonLock'"}
+{"level":30,"time":"2023-09-14T12:48:50.132Z","msg":"Finish ensuring permissions in 11ms"}
+{"level":30,"time":"2023-09-14T12:48:50.174Z","msg":"MainSQL: finishGetKnownMessageAttachments(31a3d818d8c084ad): reached the end after processing 0 messages"}
+{"level":30,"time":"2023-09-14T12:48:50.174Z","msg":"cleanupOrphanedAttachments: found 0 message attachments, (0 missing) 0 remain"}
+{"level":30,"time":"2023-09-14T12:48:50.174Z","msg":"deleteAll: deleted 0 files"}
+{"level":30,"time":"2023-09-14T12:48:50.174Z","msg":"deleteOrphanedAttachments: took 55ms"}
+{"level":30,"time":"2023-09-14T12:48:50.181Z","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2023-09-14T12:48:50.186Z","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2023-09-14T12:48:50.186Z","msg":"Background throttling enabled because no call is active"}
+{"level":30,"time":"2023-09-14T12:48:50.561Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":800,\"height\":610,\"x\":560,\"y\":288}"}
+{"level":30,"time":"2023-09-14T12:48:50.562Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2023-09-14T12:48:50.564Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2023-09-14T12:48:58.542Z","msg":"before-quit event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2023-09-14T12:48:58.542Z","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2023-09-14T12:48:58.542Z","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":true}"}
+{"level":30,"time":"2023-09-14T12:48:58.543Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2023-09-14T12:48:58.543Z","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2023-09-14T12:48:58.562Z","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2023-09-14T12:48:58.569Z","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2023-09-14T12:48:58.569Z","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2023-09-14T12:48:58.569Z","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2023-09-14T12:48:58.573Z","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}
+{"level":30,"time":"2023-09-14T12:48:58.573Z","msg":"System tray service: rendering no tray"}

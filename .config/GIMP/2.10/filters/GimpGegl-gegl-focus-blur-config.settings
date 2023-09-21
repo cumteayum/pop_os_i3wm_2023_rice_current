@@ -1,0 +1,36 @@
+# settings
+
+(GimpGegl-gegl-focus-blur-config "2023-09-10 22:54:35"
+    (time 1694366675)
+    (blur-type lens)
+    (blur-radius 16)
+    (highlight-factor 0)
+    (highlight-threshold-low 0)
+    (highlight-threshold-high 1)
+    (shape circle)
+    (x 0.28539823008849563)
+    (y 0.68563535911602214)
+    (radius 0.68731563421828912)
+    (focus 0.25)
+    (midpoint 0.5)
+    (aspect-ratio 0)
+    (rotation 0)
+    (high-quality no))
+(GimpGegl-gegl-focus-blur-config "2023-09-10 16:11:06"
+    (time 1694342466)
+    (blur-type gaussian)
+    (blur-radius 40.729999999999997)
+    (highlight-factor 0)
+    (highlight-threshold-low 0)
+    (highlight-threshold-high 1)
+    (shape diamond)
+    (x 0.5)
+    (y 0.5)
+    (radius 0.75)
+    (focus 0.25)
+    (midpoint 0.5)
+    (aspect-ratio 0)
+    (rotation 0)
+    (high-quality no))
+
+# end of settings

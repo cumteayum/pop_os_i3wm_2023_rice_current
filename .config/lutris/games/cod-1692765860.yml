@@ -1,0 +1,12 @@
+game:
+  exe: /home/ishan/.wine/drive_c/Program Files (x86)/DODI-Repacks/Call of Duty 4 Modern
+    Warfare/iw3sp.exe
+system:
+  mangohud: false
+  prime: false
+  resolution: 'off'
+wine:
+  battleye: false
+  eac: false
+  esync: false
+  fsync: false

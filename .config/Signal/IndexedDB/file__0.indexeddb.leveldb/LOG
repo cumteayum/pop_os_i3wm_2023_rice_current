@@ -1,0 +1,6 @@
+2023/09/14-18:18:50.074 59d0 Creating DB /home/ishan/.config/Signal/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2023/09/14-18:18:50.077 59d0 Reusing MANIFEST /home/ishan/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/09/14-18:18:50.082 59ce Level-0 table #5: started
+2023/09/14-18:18:50.083 59ce Level-0 table #5: 484 bytes OK
+2023/09/14-18:18:50.083 59ce Delete type=0 #3
+2023/09/14-18:18:50.084 59ce Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,21 @@
+game:
+  exe: /home/ishan/.wine/drive_c/Games/Grand Theft Auto V/GTA5.exe
+system:
+  disable_runtime: false
+  game_path: /home/ishan/.wine/drive_c/Games
+  gamemode: false
+  prime: true
+wine:
+  battleye: false
+  dgvoodoo2: false
+  dxvk: true
+  eac: false
+  esync: false
+  fsr: false
+  fsync: false
+  overrides:
+    ? ''
+    : ''
+    dinput8.dll: n,b
+  version: lutris-7.2-2-x86_64
+  vkd3d: true

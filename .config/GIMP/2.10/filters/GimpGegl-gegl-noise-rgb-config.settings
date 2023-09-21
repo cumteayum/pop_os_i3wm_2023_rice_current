@@ -1,0 +1,16 @@
+# settings
+
+(GimpGegl-gegl-noise-rgb-config "2023-09-10 16:06:18"
+    (time 1694342178)
+    (gimp-mode luma-darken-only)
+    (correlated no)
+    (independent yes)
+    (linear yes)
+    (gaussian yes)
+    (red 0.20300000000000001)
+    (green 0.185)
+    (blue 0.20000000000000001)
+    (alpha 0.109)
+    (seed 1119711395))
+
+# end of settings

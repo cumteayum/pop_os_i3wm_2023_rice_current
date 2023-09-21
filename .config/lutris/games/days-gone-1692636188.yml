@@ -1,0 +1,9 @@
+game:
+  exe: /home/ishan/Templates/Days Gone/BendGame/Binaries/Win64/DaysGone.exe
+system:
+  gamemode: true
+  mangohud: false
+  prime: true
+wine:
+  battleye: false
+  eac: false

@@ -1,0 +1,11 @@
+# settings
+
+(GimpGegl-gegl-noise-reduction-config "2023-09-11 10:57:43"
+    (time 1694410063)
+    (iterations 1))
+(GimpGegl-gegl-noise-reduction-config "2023-09-11 10:57:12"
+    (time 1694410032)
+    (gimp-mode luma-darken-only)
+    (iterations 0))
+
+# end of settings

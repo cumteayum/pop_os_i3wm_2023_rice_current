@@ -1,0 +1,26 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-NF2K91.desktop
+x-scheme-handler/https=userapp-Firefox-NF2K91.desktop
+x-scheme-handler/chrome=userapp-Firefox-NF2K91.desktop
+text/html=userapp-Firefox-NF2K91.desktop
+application/x-extension-htm=userapp-Firefox-NF2K91.desktop
+application/x-extension-html=userapp-Firefox-NF2K91.desktop
+application/x-extension-shtml=userapp-Firefox-NF2K91.desktop
+application/xhtml+xml=userapp-Firefox-NF2K91.desktop
+application/x-extension-xhtml=userapp-Firefox-NF2K91.desktop
+application/x-extension-xht=userapp-Firefox-NF2K91.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-NF2K91.desktop;
+x-scheme-handler/https=userapp-Firefox-NF2K91.desktop;
+x-scheme-handler/chrome=userapp-Firefox-NF2K91.desktop;
+text/html=userapp-Firefox-NF2K91.desktop;
+application/x-extension-htm=userapp-Firefox-NF2K91.desktop;
+application/x-extension-html=userapp-Firefox-NF2K91.desktop;
+application/x-extension-shtml=userapp-Firefox-NF2K91.desktop;
+application/xhtml+xml=userapp-Firefox-NF2K91.desktop;
+application/x-extension-xhtml=userapp-Firefox-NF2K91.desktop;
+application/x-extension-xht=userapp-Firefox-NF2K91.desktop;
+image/jpeg=firefox.desktop;
+audio/mpeg=vlc.desktop;
+video/x-matroska=vlc.desktop;

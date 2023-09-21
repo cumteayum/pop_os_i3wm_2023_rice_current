@@ -1,0 +1,10 @@
+# settings
+
+(GimpGegl-gegl-saturation-config "2023-09-10 23:34:47"
+    (time 1694369087)
+    (gimp-mode lighten-only)
+    (gimp-opacity 0.78700000000000003)
+    (scale 1.3819999999999999)
+    (colorspace Native))
+
+# end of settings
